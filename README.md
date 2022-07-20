@@ -1,2 +1,1 @@
-# Price-Table
- Project that allowed me to practice CSS and HTML
+# Project that allowed me to practice CSS and HTML
