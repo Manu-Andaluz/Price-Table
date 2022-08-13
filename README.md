@@ -1,1 +1,3 @@
-# Project that allowed me to practice CSS and HTML
+# Project for practice CSS and HTML
+
+# Proyecto para practicar CSS y HTML
